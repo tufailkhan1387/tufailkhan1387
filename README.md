@@ -44,17 +44,17 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwajeeh)](https://git.io/streak-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=cwajeeh&margin-w=4&column=7)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cwajeeh&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+
 
 <h2>Contact Me</h2>
 <div align="center">
 <div>
-  <a href="https://www.linkedin.com/in/wajeeh-ul-hassan-5b81421bb/">
+  <a href="https://www.linkedin.com/in/tufail-k-27a633139/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="mailto:wajeeh.ch1@gmail.com">
+    <a href="mailto:amjadkhan5093@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   </div>
